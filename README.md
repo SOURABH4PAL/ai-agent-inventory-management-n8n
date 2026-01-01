@@ -82,6 +82,18 @@ Each row represents a live inventory item.
 
 ---
 
+## Workflow Overview
+
+![Workflow Overview](screenshots/Inventory_workflow.png)
+
+---
+
+## Google Sheets Input / Output
+
+![Google Sheets](screenshots/google-sheet.png)
+
+---
+
 ## 🎥 Demo
 
 A full walkthrough of the workflow and chat interaction is available here:  
