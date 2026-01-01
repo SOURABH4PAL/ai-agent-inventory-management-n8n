@@ -90,7 +90,7 @@ Each row represents a live inventory item.
 
 ## Google Sheets Input / Output
 
-![Google Sheets](screenshots/google-sheet.png)
+![Google Sheets](screenshots/google-sheets.png)
 
 ---
 
