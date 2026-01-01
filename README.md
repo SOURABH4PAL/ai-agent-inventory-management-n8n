@@ -97,7 +97,7 @@ Each row represents a live inventory item.
 ## 🎥 Demo
 
 A full walkthrough of the workflow and chat interaction is available here:  
-👉 **Loom Video:** *(add your Loom link here)*
+👉 https://www.loom.com/share/f3bc189e7d5c45048b3e5c1cf17b2ddc
 
 ---
 
