@@ -1,3 +1,8 @@
+## Demo
+
+A full walkthrough of the workflow and chat interaction is available here:  
+👉 https://www.loom.com/share/f3bc189e7d5c45048b3e5c1cf17b2ddc
+
 # AI-Powered Inventory Management Agent (n8n)
 
 An AI-driven inventory management system built using **n8n** that allows users to query, update, add, or reduce inventory quantities using natural language chat. The system uses an LLM-based AI Agent connected to Google Sheets as a live inventory database.
@@ -92,12 +97,6 @@ Each row represents a live inventory item.
 
 ![Google Sheets](screenshots/google-sheets.png)
 
----
-
-## 🎥 Demo
-
-A full walkthrough of the workflow and chat interaction is available here:  
-👉 https://www.loom.com/share/f3bc189e7d5c45048b3e5c1cf17b2ddc
 
 ---
 
